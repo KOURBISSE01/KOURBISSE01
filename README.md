@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="mailto:Aymane.kourbisse@gmail.com"><img src="https://img.shields.io/badge/Email-Aymane.kourbisse%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/KOURBISSE01/portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-22d3ee?style=for-the-badge&logo=about.me&logoColor=white" /></a>
   <a href="https://github.com/KOURBISSE01"><img src="https://img.shields.io/badge/GitHub-@KOURBISSE01-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
