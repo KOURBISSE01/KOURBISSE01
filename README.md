@@ -1,54 +1,44 @@
-<h1 align="center">👋 Hi there, I'm Aymane KOURBISSE</h1>
-<h3 align="center">Data Scientist & Automation Enthusiast 🚀</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-LSTM-6DB33F" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-Science-FF6F61" />
-  <img src="https://img.shields.io/badge/RPA-Automation-7B2FBE" />
-</p>
+👋 Hi, I'm Aymane KOURBISSE
+Data Science & Automation Enthusiast 🇲🇦
 
 ---
 
-### 🧑‍💻 À propos de moi
+### ✨ About Me
 
-Passionné par la **data science**, le **machine learning** et l'**automatisation**, je conçois des solutions qui transforment la donnée en décisions. De la prédiction de la qualité de l'air avec des réseaux **LSTM** à l'automatisation de processus de recrutement avec **RPA**, j'aime relever des défis concrets.
-
----
-
-## 🚀 Projets phares
-
-| Projet | Description | Technologies |
-|--------|-------------|--------------|
-| 🌫️ **Prédiction Qualité de l'Air (PM2.5)** | Modèle prédictif LSTM + alerte AQI pour anticiper les pics de pollution | Python, LSTM, Pandas |
-| 🤖 **Automatisation RPA Bot WhatsApp** | Send massif de convocations aux candidats, optimisation du flux de recrutement d'un club | Python, RPA, Pandas |
-| 💬 **Chatbot Intelligent WhatsApp FSBM** | Assistant conversationnel automatisé | Python, WhatsApp API |
-| 📱 **Application Mobile Gestion Événementielle** | Gestion d'événements | Application mobile |
-
-## 📂 Autres dépôts
-
-- `agent_hacktlon` — projet hackathon
-- `delhi-pm2.5` / `delhi-pm25` — analyses de la pollution à Delhi
-- Divers projets web : `chat7ay7a-jackson`, `ying-yang`, `pyramid`, `eclipse`, `agenda-`
+- 🎓 Engineering student passionate about data & automation
+- 💻 Dedicated to **machine learning, deep learning, and RPA**
+- 🌱 Continuously learning: LSTM, time-series forecasting, data science
+- 📍 Based in Morocco
+- 🚀 From predicting air pollution peaks (PM2.5) to automating recruitment flows with bots
 
 ---
 
-## 🛠️ Tech stack
+### 🛠️ Tech Stack
 
-- **Langages** : Python
-- **Data / ML** : Pandas, NumPy, Deep Learning (LSTM), Data Science
-- **Automation** : RPA, scripting, bots
-- **Web** : HTML, CSS, JavaScript
-
----
-
-## 📫 Me contacter
-
-- 💼 GitHub : [KOURBISSE01](https://github.com/KOURBISSE01)
+- **Languages:** Python
+- **Data / ML:** Pandas, NumPy, Deep Learning (LSTM), Data Science
+- **Automation:** RPA, WhatsApp bots, scripting
+- **Web:** HTML, CSS, JavaScript
 
 ---
 
-## ⚡ Fun fact
+### 📊 GitHub Stats
 
-J'aime transformer des montagnes de données brutes en **insights utiles** et automatiser tout ce qui peut l'être !
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KOURBISSE01&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KOURBISSE01&show_icons=true&theme=radical)
+
+---
+
+### 📚 Projets phares
+
+- 🌫️ **Prédiction Qualité de l'Air (PM2.5)** — modèle LSTM + alerte AQI pour anticiper les pics de pollution
+- 🤖 **Automatisation RPA Bot WhatsApp** — envoi massif de convocations aux candidats
+- 💬 **Chatbot Intelligent WhatsApp FSBM** — assistant conversationnel automatisé
+- 📱 **Application Mobile de Gestion Événementielle**
+
+---
+
+### 📫 Contact
+
+- 💼 GitHub: [KOURBISSE01](https://github.com/KOURBISSE01)
