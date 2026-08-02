@@ -35,6 +35,12 @@ Responsable de la cellule informatique du **Club des Jeunes Motivés**, je conç
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
 </p>
 
 **IA** · Machine Learning · Deep Learning · LSTM · Rasa · NLP · RAG · Computer Vision
