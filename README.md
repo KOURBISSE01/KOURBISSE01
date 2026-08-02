@@ -1,99 +1,101 @@
 <div align="center">
 
-# AYMANE KOURBISSE
-## DÉVELOPPEUR IA & APPLICATIONS
+<h1 align="center">Aymane KOURBISSE</h1>
+<h3 align="center">Développeur IA & Applications — Casablanca, Maroc 🇲🇦</h3>
 
-**@KOURBISSE01**
+<p align="center">
+  <a href="mailto:Aymane.kourbisse@gmail.com"><img src="https://img.shields.io/badge/Email-Aymane.kourbisse%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/KOURBISSE01"><img src="https://img.shields.io/badge/GitHub-@KOURBISSE01-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-📧 <Aymane.kourbisse@gmail.com>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KOURBISSE01&style=flat-square&color=blue" alt="visites" />
+</p>
 
-📞 06 57 94 93 75
+---
 
+## 👋 À propos
+
+Développeur IA junior spécialisé en **Intelligence Artificielle, Machine Learning et GenAI**, avec une expérience pratique en **RAG, LLM, Computer Vision et AI Agents**.
+
+🏆 **2ᵉ place — Build with Gemma Hackathon 2026** : solution combinant Google Gemma, YOLOv8-Seg, RAG et architecture Multi-Agents.
+
+Responsable de la cellule informatique du **Club des Jeunes Motivés**, je conçois des chatbots, applications mobiles et solutions d'automatisation. **Actuellement à la recherche d'un stage / alternance en IA.** 👀
+
+---
+
+## 🛠️ Stack Technique
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+</p>
+
+**IA** · Machine Learning · Deep Learning · LSTM · Rasa · NLP · RAG · Computer Vision
+
+**Langages** : Python · C · C++ · Java · Kotlin · JavaScript · SQL
+
+**Data** : NumPy · Pandas · Matplotlib · Power BI · Data Visualization
+
+**Bases de données** : Oracle SQL · Firebase
+
+---
+
+## 🚀 Projets phares
+
+<div align="center">
+
+### 🌫️ Prédiction Qualité de l'Air (PM2.5)
+Modèle **LSTM** anticipant les pics de pollution à Delhi, avec système d'alerte AQI.
+
+[→ Voir le projet](https://github.com/KOURBISSE01/Pr-diction-de-la-Qualit-de-l-Air-par-Deep-Learning)
+
+### 🥈 AI Agent Multi-Agents — Hackathon
+Reconnaissance de plats marocains (YOLOv8-Seg) + recommandations nutritionnelles (Gemma + RAG).
+
+[→ Voir le projet](https://github.com/KOURBISSE01/agent_hacktlon)
+
+### 💬 Chatbot WhatsApp Intelligent (FSBM)
+Assistant universitaire basé sur **Rasa + RAG + Groq**.
+
+[→ Voir le projet](https://github.com/KOURBISSE01/Chatbot-Intelligent-WhatsApp-FSBM)
+
+### 🤖 Automatisation RPA & Bot WhatsApp
+Envoi automatisé de convocations (Selenium + Pandas).
+
+[→ Voir le projet](https://github.com/KOURBISSE01/Automatisation-RPA-Bot-WhatsApp)
+
+### 📱 App Mobile — Gestion d'événements QR Code
+Application Flutter + Firebase de suivi de présence.
+
+[→ Voir le projet](https://github.com/KOURBISSE01/Application-Mobile-de-Gestion-v-nementielle)
 </div>
 
 ---
 
-## _PROFIL_
+## 📊 GitHub Stats
 
-Développeur IA junior spécialisé en Intelligence Artificielle, Machine Learning et GenAI, avec une expérience pratique en RAG, LLM, Computer Vision et développement d'AI Agents. Lauréat de la 2ᵉ place au **Build with Gemma Hackathon 2026** avec une solution combinant Google Gemma, YOLOv8-Seg, RAG et une architecture Multi-Agents. Responsable de la cellule informatique du Club des Jeunes Motivés, j'ai également conçu des chatbots, applications mobiles et solutions d'automatisation. Je recherche une opportunité de stage ou d'alternance en IA afin de contribuer au développement de solutions intelligentes et innovantes.
-
----
-
-## _PARCOURS SCOLAIRE_
-
-### Licence d'Excellence en Intelligence Artificielle
-Faculté des Sciences Ben M'Sik, Casablanca — 2025–2026
-
-### DEUG en Développement Informatique
-Faculté des Sciences Aïn Chock, Casablanca — 2023–2025
-
-### Baccalauréat Sciences Mathématiques A
-Lycée Amr Ibn Al-Aas — Option Française — 2022–2023
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KOURBISSE01&show_icons=true&theme=radical&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOURBISSE01&langs_count=6&layout=compact&theme=radical" />
+</div>
 
 ---
 
-## _HACKATHONS & DISTINCTIONS_
+## 💬 Contact
 
-### 🥈 2ᵉ place — Build with Gemma Hackathon 2026
-AI Agent multi-agents combinant Google Gemma, YOLOv8-Seg, RAG pour la reconnaissance de plats marocains et la génération de recommandations nutritionnelles personnalisées.
-
----
-
-## _PROJETS ACADÉMIQUES & PERSONNELS_
-
-### 💬 Chatbot Intelligent WhatsApp — FSBM (PFE) — 2026
-Développement d'un chatbot WhatsApp basé sur Rasa, RAG, ChromaDB et Groq pour répondre aux questions académiques et automatiser la récupération d'informations universitaires.
-
-### 🌫️ Machine Learning de la Qualité de l'Air — FSBM (PFM) — 2026
-Conception d'un modèle LSTM pour prédire les concentrations de PM2.5 à partir de séries temporelles environnementales.
-
-### 🤖 Automatisation RPA & Bot WhatsApp — 2025
-Développement d'un bot Python (Selenium, Pandas) pour automatiser l'envoi personnalisé de convocations.
-
-### 📱 Application Mobile de Gestion Événementielle — 2025
-Développement d'une application Flutter utilisant Firebase pour le scan de QR Code et la gestion des prestations.
-
-### 🏦 Système de Gestion des Transactions Bancaires — 2024
-Développement en C/C++ d'une application simulant la gestion de comptes et de transactions bancaires.
-
----
-
-## _COMPÉTENCES TECHNIQUES_
-
-**Langages :** Python • C • C++ • Java • Kotlin • JavaScript • HTML • CSS • SQL
-
-**IA :** Machine Learning • Deep Learning • TensorFlow • Scikit-learn • LSTM • Rasa • NLP • RAG • ChromaDB • Groq API
-
-**Data Science :** NumPy • Pandas • Matplotlib • Power BI • Data Cleaning • Data Visualization
-
-**Bases de données :** Oracle SQL • Firebase
-
-**Développement :** Flutter • Selenium • Playwright • Git • Linux (Ubuntu) • VS Code
-
----
-
-## _CENTRES D'INTÉRÊT_
-
-📷 Photographie • 🎥 Vidéographie • 🎬 Montage audio-visuel • 🎧 Musique (DJ)
-
----
-
-## _LANGUES_
-
-- **Arabe :** Langue maternelle
-- **Français :** B1
-- **Anglais :** A2
-
----
-
-## _COMPÉTENCES COMPORTEMENTALES_
-
-🧠 Résolution de problèmes • 🌱 Adaptabilité • 🔥 Autonomie et auto-motivation • 💡 Créativité et innovation • 👥 Travail en équipe
+- 📧 **Email** : [Aymane.kourbisse@gmail.com](mailto:Aymane.kourbisse@gmail.com)
+- 📱 **Téléphone** : 06 57 94 93 75
+- 💼 **GitHub** : [KOURBISSE01](https://github.com/KOURBISSE01)
 
 ---
 
 <div align="center">
-
-**📱 06 57 94 93 75** &nbsp;•&nbsp; **📧 [Aymane.kourbisse@gmail.com](mailto:Aymane.kourbisse@gmail.com)** &nbsp;•&nbsp; **💼 [GitHub @KOURBISSE01](https://github.com/KOURBISSE01)**
-
+  <i>Open to new opportunities 🚀</i>
 </div>
